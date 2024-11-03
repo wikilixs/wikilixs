@@ -4,7 +4,6 @@
   
   <h2>/ About me /</h2>
   
-
   <h2>/ Current skills /</h2>
 
   <h3>/ Languages /</h3>
