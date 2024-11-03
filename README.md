@@ -1,7 +1,7 @@
 <h1 align="center">WikiLixs</h1>
 
 <p align="center">
-  <img align="right" style="width: 40%;" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+  <img align="right" style="width: 50%;" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 </p>
 
 ## About me
