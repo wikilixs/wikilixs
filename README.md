@@ -1,6 +1,6 @@
 <h1 align="center"> >WikiLixs< </h1>
   
-  <img align="right" width="300" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+  <img align="right" width="600" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
   
   <h2>/ About me /</h2>
   
