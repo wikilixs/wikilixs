@@ -11,22 +11,25 @@
     <img
       alt="Python Badge"
       src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" 
-      >
+      style="width: 15%">
   </dl>
   
   <h3>/ Frameworks & Libraries /</h3>
   <dl>
-   <img 
+  <img
+     src= "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)" 
      alt="Numpy"
-     src= "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)"
-     >
-    <img 
+     style="width: 15%">
+    
+  <img 
+      src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
       alt="Pandas"
-      src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-    <img 
-      alt="Metplotlib"
+      style="width: 15%">
+    
+  <img 
       src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"
-      >
+      alt="Matplotlib"
+      style="width: 15%">
   </dl>
 
  <p>Last Edited on: 02/11/2024</p>
