@@ -45,3 +45,13 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/wikilixs/wikilixs/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wikilixs/count.svg?"  />
+</div>
+
+###
